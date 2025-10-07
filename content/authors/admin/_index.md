@@ -33,8 +33,8 @@ profiles:
 education:
   - area: PhD Applied Mathematics
     institution: Vienna University of Technology
-    date_start: 2007-10
-    date_end: 2013-12
+    date_start: 2007-10-01
+    date_end: 2013-12-01
     summary: |
       Thesis on _Deployment of Mathematical Simulation Models for Space Management_. Supervised by [Prof Felix Breitenecker](https://example.com).
     button:
@@ -42,8 +42,8 @@ education:
       url: 'https://repositum.tuwien.at/bitstream/20.500.12708/6934/2/Emrich%20Stefan%20-%202013%20-%20Deployment%20of%20mathematical%20simulation%20models%20for%20space...pdf'
   - area: Mathematical Computer Simulation
     institution: Vienna University of Technology
-    date_start: 2000-10
-    date_end: 2007-06
+    date_start: 2000-10-01
+    date_end: 2007-06-01
     summary: |
 
       Courses included:
@@ -56,19 +56,19 @@ work:
     company_name: Datengeschichten e.U.
     company_url: ''
     company_logo: ''
-    date_start: 2014-05
+    date_start: 2014-05-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: 
-    company_name: 
-    company_url: ''
+  - position: Head of Datahub
+    company_name: ÖBB
+    company_url: 'https://oebb.at'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-02
+    date_end: ''
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
