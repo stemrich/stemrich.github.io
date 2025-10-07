@@ -1,16 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Štefan Emrich
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Pronouns (optional)
-pronouns: she/her
+first_name: Štefan
+last_name: Emrich
 
 # Status emoji
 status:
@@ -20,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Data Scientist, Modelling Expert and Communication Specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: datastories
+    url: https://datastories.at
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,61 +27,44 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Applied Mathematics
+    institution: Vienna University of Technology
+    date_start: 2007-10
+    date_end: 2013-12
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Deployment of Mathematical Simulation Models for Space Management_. Supervised by [Prof Felix Breitenecker](https://example.com).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://repositum.tuwien.at/bitstream/20.500.12708/6934/2/Emrich%20Stefan%20-%202013%20-%20Deployment%20of%20mathematical%20simulation%20models%20for%20space...pdf'
+  - area: Mathematical Computer Simulation
+    institution: Vienna University of Technology
+    date_start: 2000-10
+    date_end: 2007-06
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Founder & CEO
+    company_name: Datengeschichten e.U.
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2014-05
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: 
+    company_name: 
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -135,10 +112,15 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
+    percent: 100
+  - name: Burgenlandcroatian
+    percent: 90
+  - name: Bosnian/Croatian/Serbian
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Russian
+    percent: 60
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
